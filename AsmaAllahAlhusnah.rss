@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss
+	xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
+	<channel>
+		<title>
+			<![CDATA[أسماء الله الحسنى]]>
+		</title>
+		<link>https://rss.com/podcasts/asmaa-allah-alhusna</link>
+		<atom:link href="https://media.rss.com/asmaa-allah-alhusna/feed.xml" rel="self" type="application/rss+xml"/>
+		<description>
+			<![CDATA[اذا كان الإنسان مطالباً بأن يسعى إلى تحصيل العلوم النافعة، وأن يسأل ربه -تبارك وتعالى- أن يوفقه .لذلك، وأن يدله عليه، فلا شك أن العلم المتعلق بالمعبود أشرف العلوم، وأنفع العلوم
+إن أصل العلم هو العلم بالله الذي يوجب لنا الخشية، والخوف الذي يبعث في نفوسنا الشوق إلى لقاء الله. ففي هذه المجالس يشرح الشيخ خالد السبت أسماء الله ويبين معنايها و دلالاتها.]]>
+		</description>
+		<generator>RSS.com v1.0.17</generator>
+		<lastBuildDate>Tue, 18 May 2021 20:24:35 GMT</lastBuildDate>
+		<language>ar</language>
+		<copyright>
+			<![CDATA[none]]>
+		</copyright>
+		<itunes:image href="https://assets.rss.com/images/no-cover-1400.jpg"/>
+		<image>
+			<url>https://assets.rss.com/images/no-cover-1400.jpg</url>
+			<title>أسماء الله الحسنى</title>
+			<link>https://rss.com/podcasts/asmaa-allah-alhusna</link>
+		</image>
+		<itunes:summary>
+			<![CDATA[اذا كان الإنسان مطالباً بأن يسعى إلى تحصيل العلوم النافعة، وأن يسأل ربه -تبارك وتعالى- أن يوفقه .لذلك، وأن يدله عليه، فلا شك أن العلم المتعلق بالمعبود أشرف العلوم، وأنفع العلوم
+إن أصل العلم هو العلم بالله الذي يوجب لنا الخشية، والخوف الذي يبعث في نفوسنا الشوق إلى لقاء الله. ففي هذه المجالس يشرح الشيخ خالد السبت أسماء الله ويبين معنايها و دلالاتها.]]>
+		</itunes:summary>
+		<podcast:locked owner="knowledge_station@protonmail.com">Yes</podcast:locked>
+		<itunes:author>خالد السبت</itunes:author>
+		<itunes:owner>
+			<itunes:name>خالد السبت</itunes:name>
+			<itunes:email>knowledge_station@protonmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:type>episodic</itunes:type>
+		<itunes:category text="Education"/>
+		<item>
+			<title>
+				<![CDATA[المقدمات في الأسماء الحسنى]]>
+			</title>
+			<itunes:title>
+				<![CDATA[المقدمات في الأسماء الحسنى]]>
+			</itunes:title>
+			<itunes:summary>المقدمات في الأسماء الحسنى</itunes:summary>
+			<description>
+				<![CDATA[<p>المقدمات في الأسماء الحسنى</p>]]>
+			</description>
+			<link>https://archive.org/details/Al-Asmaa_Al-Husnaa/01.mp3</link>
+			<enclosure url="https://archive.org/details/Al-Asmaa_Al-Husnaa/01.mp3" length="31077966" type="audio/mpeg"/>
+			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
+			<itunes:image href="https://assets.rss.com/images/no-cover-1400.jpg"/>
+			<itunes:duration>5077</itunes:duration>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1</itunes:episode>
+			<itunes:season>1</itunes:season>
+			<itunes:explicit>no</itunes:explicit>
+			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
+		</item>
+		<item>
+			<title>
+				<![CDATA[ ٢ المقدمات في الأسماء الحسنى]]>
+			</title>
+			<itunes:title>
+				<![CDATA[ ٢ المقدمات في الأسماء الحسنى]]>
+			</itunes:title>
+			<itunes:summary>المقدمات في الأسماء الحسنى</itunes:summary>
+			<description>
+				<![CDATA[<p> ٢ المقدمات في الأسماء الحسنى</p>]]>
+			</description>
+			<link>https://archive.org/details/Al-Asmaa_Al-Husnaa/02.mp3</link>
+			<enclosure url="https://archive.org/details/Al-Asmaa_Al-Husnaa/02.mp3" length="31077966" type="audio/mpeg"/>
+			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
+			<itunes:image href="https://assets.rss.com/images/no-cover-1400.jpg"/>
+			<itunes:duration>5077</itunes:duration>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>2</itunes:episode>
+			<itunes:season>1</itunes:season>
+			<itunes:explicit>no</itunes:explicit>
+			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
+		</item>
+
+	</channel>
+</rss>
