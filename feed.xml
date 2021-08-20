@@ -12,7 +12,7 @@
 		<atom:link href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/feed.xml" rel="self" type="application/rss+xml"/>
 		<description>
 			<![CDATA[اذا كان الإنسان مطالباً بأن يسعى إلى تحصيل العلوم النافعة، وأن يسأل ربه -تبارك وتعالى- أن يوفقه .لذلك، وأن يدله عليه، فلا شك أن العلم المتعلق بالمعبود أشرف العلوم، وأنفع العلوم
-إن أصل العلم هو العلم بالله الذي يوجب لنا الخشية، والخوف الذي يبعث في نفوسنا الشوق إلى لقاء الله. ففي هذه المجالس يشرح الشيخ خالد السبت أسماء الله ويبين معانيها و دلالاتها.]]>
+إن أصل العلم هو العلم بالله الذي يوجب لنا الخشية، والخوف الذي يبعث في نفوسنا الشوق إلى لقاء الله. ففي هذه المجالس يشرح الشيخ خالد السبت اسماء الله ويبين معانيها و دلالاتها.]]>
 		</description>
 		<generator>RSS.com v1.0.17</generator>
 		<lastBuildDate>Tue, 18 May 2021 20:24:35 GMT</lastBuildDate>
@@ -20,15 +20,15 @@
 		<copyright>
 			<![CDATA[none]]>
 		</copyright>
-		<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+		<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 		<image>
-			<url>https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG</url>
-			<title>أسماء الله الحسنى</title>
-			<link>https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG</link>
+			<url>https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png</url>
+			<title>اسماء الله الحسنى</title>
+			<link>https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png</link>
 		</image>
 		<itunes:summary>
 			<![CDATA[اذا كان الإنسان مطالباً بأن يسعى إلى تحصيل العلوم النافعة، وأن يسأل ربه -تبارك وتعالى- أن يوفقه .لذلك، وأن يدله عليه، فلا شك أن العلم المتعلق بالمعبود أشرف العلوم، وأنفع العلوم
-إن أصل العلم هو العلم بالله الذي يوجب لنا الخشية، والخوف الذي يبعث في نفوسنا الشوق إلى لقاء الله. ففي هذه المجالس يشرح الشيخ خالد السبت أسماء الله ويبين معانيها و دلالاتها.]]>
+إن أصل العلم هو العلم بالله الذي يوجب لنا الخشية، والخوف الذي يبعث في نفوسنا الشوق إلى لقاء الله. ففي هذه المجالس يشرح الشيخ خالد السبت اسماء الله ويبين معانيها و دلالاتها.]]>
 		</itunes:summary>
 		<podcast:locked owner="knowledge_station@protonmail.com">Yes</podcast:locked>
 		<itunes:author>خالد السبت</itunes:author>
@@ -53,7 +53,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/01.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/01.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>5076</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>1</itunes:episode>
@@ -75,7 +75,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/02.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/02.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>3022</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>2</itunes:episode>
@@ -97,7 +97,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/03.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/03.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>3126</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>3</itunes:episode>
@@ -119,7 +119,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/04.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/04.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>2971</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>4</itunes:episode>
@@ -141,7 +141,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/05.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/05.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>3393</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>5</itunes:episode>
@@ -163,7 +163,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/06.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/06.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>3320</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>6</itunes:episode>
@@ -185,7 +185,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/07.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/07.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>4299</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>7</itunes:episode>
@@ -207,7 +207,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/08.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/08.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>4288</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>8</itunes:episode>
@@ -229,7 +229,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/09.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/09.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>4354</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>9</itunes:episode>
@@ -251,7 +251,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/10.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/10.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>4484</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>10</itunes:episode>
@@ -273,7 +273,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/11.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/11.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>3632</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>11</itunes:episode>
@@ -295,7 +295,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/12.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/12.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>3388</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>12</itunes:episode>
@@ -317,7 +317,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/13.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/13.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>4267</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>13</itunes:episode>
@@ -339,7 +339,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/14.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/14.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>3955</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>14</itunes:episode>
@@ -361,7 +361,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/15.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/15.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>4514</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>15</itunes:episode>
@@ -383,7 +383,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/16.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/16.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>3940</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>16</itunes:episode>
@@ -405,7 +405,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/17.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/17.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>4062</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>17</itunes:episode>
@@ -427,7 +427,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/18.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/18.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>5060</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>18</itunes:episode>
@@ -449,7 +449,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/19.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/19.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>4557</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>19</itunes:episode>
@@ -471,7 +471,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/20.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/20.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>3078</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>20</itunes:episode>
@@ -493,7 +493,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/21.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/21.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>3389</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>21</itunes:episode>
@@ -515,7 +515,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/22.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/22.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>4268</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>22</itunes:episode>
@@ -537,7 +537,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/23.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/23.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>2526</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>23</itunes:episode>
@@ -559,7 +559,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/24.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/24.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>2953</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>24</itunes:episode>
@@ -581,7 +581,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/25.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/25.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>3057</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>25</itunes:episode>
@@ -603,7 +603,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/26.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/26.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>2965</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>26</itunes:episode>
@@ -625,7 +625,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/27.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/27.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>3286</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>27</itunes:episode>
@@ -647,7 +647,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/28.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/28.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>4548</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>28</itunes:episode>
@@ -669,7 +669,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/29.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/29.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>2816</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>29</itunes:episode>
@@ -691,7 +691,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/30.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/30.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>3323</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>30</itunes:episode>
@@ -713,7 +713,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/31.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/31.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>4511</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>31</itunes:episode>
@@ -735,7 +735,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/32.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/32.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>4610</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>32</itunes:episode>
@@ -757,7 +757,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/33.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/33.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>4656</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>33</itunes:episode>
@@ -779,7 +779,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/34.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/34.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>3698</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>34</itunes:episode>
@@ -801,7 +801,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/35.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/35.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>3692</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>35</itunes:episode>
@@ -823,7 +823,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/36.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/36.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>4068</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>36</itunes:episode>
@@ -845,7 +845,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/37.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/37.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>4227</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>37</itunes:episode>
@@ -867,7 +867,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/38.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/38.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>3804</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>38</itunes:episode>
@@ -889,7 +889,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/39.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/39.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>3863</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>39</itunes:episode>
@@ -911,7 +911,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/40.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/40.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>3971</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>40</itunes:episode>
@@ -933,7 +933,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/41.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/41.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>4395</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>41</itunes:episode>
@@ -955,7 +955,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/42.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/42.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>3934</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>42</itunes:episode>
@@ -977,7 +977,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/43.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/43.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>4156</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>43</itunes:episode>
@@ -999,7 +999,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/44.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/44.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>3992</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>44</itunes:episode>
@@ -1021,7 +1021,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/45.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/45.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>4512</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>45</itunes:episode>
@@ -1043,7 +1043,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/46.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/46.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>3669</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>46</itunes:episode>
@@ -1065,7 +1065,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/47.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/47.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>3668</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>47</itunes:episode>
@@ -1087,7 +1087,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/48.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/48.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>3525</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>48</itunes:episode>
@@ -1109,7 +1109,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/49.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/49.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>4854</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>49</itunes:episode>
@@ -1131,7 +1131,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/50.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/50.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>3366</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>50</itunes:episode>
@@ -1153,7 +1153,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/51.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/51.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>4785</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>51</itunes:episode>
@@ -1175,7 +1175,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/52.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/52.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>3721</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>52</itunes:episode>
@@ -1197,7 +1197,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/53.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/53.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>3155</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>53</itunes:episode>
@@ -1219,7 +1219,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/54.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/54.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>3759</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>54</itunes:episode>
@@ -1241,7 +1241,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/55.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/55.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>4255</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>55</itunes:episode>
@@ -1263,7 +1263,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/56.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/56.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>3046</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>56</itunes:episode>
@@ -1285,7 +1285,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/57.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/57.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>3624</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>57</itunes:episode>
@@ -1307,7 +1307,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/58.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/58.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>3461</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>58</itunes:episode>
@@ -1329,7 +1329,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/59.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/59.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>3966</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>59</itunes:episode>
@@ -1351,7 +1351,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/60.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/60.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>2431</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>60</itunes:episode>
@@ -1373,7 +1373,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/61.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/61.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>2813</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>61</itunes:episode>
@@ -1395,7 +1395,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/62.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/62.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>2867</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>62</itunes:episode>
@@ -1417,7 +1417,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/63.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/63.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>2366</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>63</itunes:episode>
@@ -1439,7 +1439,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/64.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/64.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>1891</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>64</itunes:episode>
@@ -1461,7 +1461,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/65.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/65.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>2173</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>65</itunes:episode>
@@ -1483,7 +1483,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/66.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/66.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>2819</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>66</itunes:episode>
@@ -1505,7 +1505,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/67.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/67.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>2177</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>67</itunes:episode>
@@ -1527,7 +1527,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/68.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/68.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>2258</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>68</itunes:episode>
@@ -1549,7 +1549,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/69.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/69.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>1393</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>69</itunes:episode>
@@ -1571,7 +1571,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/70.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/70.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>3020</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>70</itunes:episode>
@@ -1593,7 +1593,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/71.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/71.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>3048</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>71</itunes:episode>
@@ -1615,7 +1615,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/72.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/72.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>3389</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>72</itunes:episode>
@@ -1637,7 +1637,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/73.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/73.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>3331</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>73</itunes:episode>
@@ -1659,7 +1659,7 @@
 			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/74.mp3</link>
 			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/74.mp3" length="31077966" type="audio/mpeg"/>
 			<guid isPermaLink="false">88901bbb-dfa5-a152-89c2-e87907e49923</guid>
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.PNG"/>
+			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 			<itunes:duration>2433</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>74</itunes:episode>
