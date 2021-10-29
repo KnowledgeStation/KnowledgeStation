@@ -952,6 +952,5 @@
             <itunes:episode>24</itunes:episode>
             <itunes:season>4</itunes:season>
         </item> 
-
-        </channel>
-        </rss>
+    </channel>
+</rss>
