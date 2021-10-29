@@ -1,0 +1,958 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes= https://archive.org/details/zad_lectures version="2.0">
+<channel>
+<title>محاضرات اكاديمية زاد محاضرات العقيدة الدورة 1 </title>
+<link>https://archive.org/details/zad_lectures<link>
+<language>ar</language>
+<itunes:author>أبو زيدالقبي</itunes:author>
+<description>محاضرات برنامج أكاديمية زاد الدورة 1،  مادة العقيدة للمستوى الاول، الثاني، الثالث و الرابع يقدمها د. أبو زيدالقبي</description>
+<itunes:owner>
+    <itunes:name>أكاديمية زاد</itunes:name>
+</itunes:owner>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/ZAD/ZAD_logo.jpg" />
+<itunes:category text=Education/></itunes:category>
+
+<item>
+    <title>Aqeedah - المستوى الأول - المحاضرة 1</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Aqeedah/v0/Aqeedah1_Semester1.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>1</itunes:episode>
+    <itunes:season>1</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الأول - المحاضرة 2</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Aqeedah/v0/Aqeedah2_Semester1.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>2</itunes:episode>
+    <itunes:season>1</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الأول - المحاضرة 3</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Aqeedah/v0/Aqeedah3_Semester1.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>3</itunes:episode>
+    <itunes:season>1</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الأول - المحاضرة 4</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Aqeedah/v0/Aqeedah4_Semester1.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>4</itunes:episode>
+    <itunes:season>1</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الأول - المحاضرة 5</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Aqeedah/v0/Aqeedah5_Semester1.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>5</itunes:episode>
+    <itunes:season>1</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الأول - المحاضرة 6</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Aqeedah/v0/Aqeedah6_Semester1.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>6</itunes:episode>
+    <itunes:season>1</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الأول - المحاضرة 7</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Aqeedah/v0/Aqeedah7_Semester1.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>7</itunes:episode>
+    <itunes:season>1</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الأول - المحاضرة 8</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Aqeedah/v0/Aqeedah8_Semester1.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>8</itunes:episode>
+    <itunes:season>1</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الأول - المحاضرة 9</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Aqeedah/v0/Aqeedah9_Semester1.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>9</itunes:episode>
+    <itunes:season>1</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الأول - المحاضرة 10</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Aqeedah/v0/Aqeedah10_Semester1.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>10</itunes:episode>
+    <itunes:season>1</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الأول - المحاضرة 11</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Aqeedah/v0/Aqeedah11_Semester1.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>11</itunes:episode>
+    <itunes:season>1</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الأول - المحاضرة 12</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Aqeedah/v0/Aqeedah12_Semester1.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>12</itunes:episode>
+    <itunes:season>1</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الأول - المحاضرة 13</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Aqeedah/v0/Aqeedah13_Semester1.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>13</itunes:episode>
+    <itunes:season>1</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الأول - المحاضرة 14</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Aqeedah/v0/Aqeedah14_Semester1.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>14</itunes:episode>
+    <itunes:season>1</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الأول - المحاضرة 15</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Aqeedah/v0/Aqeedah15_Semester1.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>15</itunes:episode>
+    <itunes:season>1</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الأول - المحاضرة 16</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Aqeedah/v0/Aqeedah16_Semester1.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>16</itunes:episode>
+    <itunes:season>1</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الأول - المحاضرة 17</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Aqeedah/v0/Aqeedah17_Semester1.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>17</itunes:episode>
+    <itunes:season>1</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الأول - المحاضرة 18</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Aqeedah/v0/Aqeedah18_Semester1.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>18</itunes:episode>
+    <itunes:season>1</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الأول - المحاضرة 19</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Aqeedah/v0/Aqeedah19_Semester1.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>19</itunes:episode>
+    <itunes:season>1</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الأول - المحاضرة 20</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Aqeedah/v0/Aqeedah20_Semester1.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>20</itunes:episode>
+    <itunes:season>1</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الأول - المحاضرة 21</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Aqeedah/v0/Aqeedah21_Semester1.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>21</itunes:episode>
+    <itunes:season>1</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الأول - المحاضرة 22</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Aqeedah/v0/Aqeedah22_Semester1.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>22</itunes:episode>
+    <itunes:season>1</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثاني - المحاضرة 1</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Aqeedah/v0/Aqeedah1_Semester2.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>1</itunes:episode>
+    <itunes:season>2</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثاني - المحاضرة 2</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Aqeedah/v0/Aqeedah2_Semester2.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>2</itunes:episode>
+    <itunes:season>2</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثاني - المحاضرة 3</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Aqeedah/v0/Aqeedah3_Semester2.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>3</itunes:episode>
+    <itunes:season>2</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثاني - المحاضرة 4</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Aqeedah/v0/Aqeedah4_Semester2.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>4</itunes:episode>
+    <itunes:season>2</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثاني - المحاضرة 5</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Aqeedah/v0/Aqeedah5_Semester2.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>5</itunes:episode>
+    <itunes:season>2</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثاني - المحاضرة 6</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Aqeedah/v0/Aqeedah6_Semester2.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>6</itunes:episode>
+    <itunes:season>2</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثاني - المحاضرة 7</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Aqeedah/v0/Aqeedah7_Semester2.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>7</itunes:episode>
+    <itunes:season>2</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثاني - المحاضرة 8</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Aqeedah/v0/Aqeedah8_Semester2.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>8</itunes:episode>
+    <itunes:season>2</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثاني - المحاضرة 9</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Aqeedah/v0/Aqeedah9_Semester2.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>9</itunes:episode>
+    <itunes:season>2</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثاني - المحاضرة 10</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Aqeedah/v0/Aqeedah10_Semester2.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>10</itunes:episode>
+    <itunes:season>2</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثاني - المحاضرة 11</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Aqeedah/v0/Aqeedah11_Semester2.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>11</itunes:episode>
+    <itunes:season>2</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثاني - المحاضرة 12</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Aqeedah/v0/Aqeedah12_Semester2.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>12</itunes:episode>
+    <itunes:season>2</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثاني - المحاضرة 13</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Aqeedah/v0/Aqeedah13_Semester2.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>13</itunes:episode>
+    <itunes:season>2</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثاني - المحاضرة 14</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Aqeedah/v0/Aqeedah14_Semester2.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>14</itunes:episode>
+    <itunes:season>2</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثاني - المحاضرة 15</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Aqeedah/v0/Aqeedah15_Semester2.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>15</itunes:episode>
+    <itunes:season>2</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثاني - المحاضرة 16</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Aqeedah/v0/Aqeedah16_Semester2.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>16</itunes:episode>
+    <itunes:season>2</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثاني - المحاضرة 17</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Aqeedah/v0/Aqeedah17_Semester2.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>17</itunes:episode>
+    <itunes:season>2</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثاني - المحاضرة 18</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Aqeedah/v0/Aqeedah18_Semester2.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>18</itunes:episode>
+    <itunes:season>2</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثاني - المحاضرة 19</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Aqeedah/v0/Aqeedah19_Semester2.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>19</itunes:episode>
+    <itunes:season>2</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثاني - المحاضرة 20</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Aqeedah/v0/Aqeedah20_Semester2.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>20</itunes:episode>
+    <itunes:season>2</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثاني - المحاضرة 21</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Aqeedah/v0/Aqeedah21_Semester2.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>21</itunes:episode>
+    <itunes:season>2</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثاني - المحاضرة 22</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Aqeedah/v0/Aqeedah22_Semester2.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>22</itunes:episode>
+    <itunes:season>2</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثاني - المحاضرة 23</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Aqeedah/v0/Aqeedah23_Semester2.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>23</itunes:episode>
+    <itunes:season>2</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثاني - المحاضرة 24</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Aqeedah/v0/Aqeedah24_Semester2.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>24</itunes:episode>
+    <itunes:season>2</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثالث - المحاضرة 1</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Aqeedah/v0/Aqeedah1_Semester3.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>1</itunes:episode>
+    <itunes:season>3</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثالث - المحاضرة 2</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Aqeedah/v0/Aqeedah2_Semester3.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>2</itunes:episode>
+    <itunes:season>3</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثالث - المحاضرة 3</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Aqeedah/v0/Aqeedah3_Semester3.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>3</itunes:episode>
+    <itunes:season>3</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثالث - المحاضرة 4</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Aqeedah/v0/Aqeedah4_Semester3.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>4</itunes:episode>
+    <itunes:season>3</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثالث - المحاضرة 5</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Aqeedah/v0/Aqeedah5_Semester3.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>5</itunes:episode>
+    <itunes:season>3</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثالث - المحاضرة 6</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Aqeedah/v0/Aqeedah6_Semester3.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>6</itunes:episode>
+    <itunes:season>3</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثالث - المحاضرة 7</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Aqeedah/v0/Aqeedah7_Semester3.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>7</itunes:episode>
+    <itunes:season>3</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثالث - المحاضرة 8</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Aqeedah/v0/Aqeedah8_Semester3.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>8</itunes:episode>
+    <itunes:season>3</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثالث - المحاضرة 9</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Aqeedah/v0/Aqeedah9_Semester3.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>9</itunes:episode>
+    <itunes:season>3</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثالث - المحاضرة 10</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Aqeedah/v0/Aqeedah10_Semester3.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>10</itunes:episode>
+    <itunes:season>3</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثالث - المحاضرة 11</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Aqeedah/v0/Aqeedah11_Semester3.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>11</itunes:episode>
+    <itunes:season>3</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثالث - المحاضرة 12</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Aqeedah/v0/Aqeedah12_Semester3.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>12</itunes:episode>
+    <itunes:season>3</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثالث - المحاضرة 13</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Aqeedah/v0/Aqeedah13_Semester3.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>13</itunes:episode>
+    <itunes:season>3</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثالث - المحاضرة 14</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Aqeedah/v0/Aqeedah14_Semester3.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>14</itunes:episode>
+    <itunes:season>3</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثالث - المحاضرة 15</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Aqeedah/v0/Aqeedah15_Semester3.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>15</itunes:episode>
+    <itunes:season>3</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثالث - المحاضرة 16</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Aqeedah/v0/Aqeedah16_Semester3.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>16</itunes:episode>
+    <itunes:season>3</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثالث - المحاضرة 17</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Aqeedah/v0/Aqeedah17_Semester3.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>17</itunes:episode>
+    <itunes:season>3</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثالث - المحاضرة 18</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Aqeedah/v0/Aqeedah18_Semester3.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>18</itunes:episode>
+    <itunes:season>3</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثالث - المحاضرة 19</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Aqeedah/v0/Aqeedah19_Semester3.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>19</itunes:episode>
+    <itunes:season>3</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثالث - المحاضرة 20</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Aqeedah/v0/Aqeedah20_Semester3.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>20</itunes:episode>
+    <itunes:season>3</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثالث - المحاضرة 21</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Aqeedah/v0/Aqeedah21_Semester3.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>21</itunes:episode>
+    <itunes:season>3</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثالث - المحاضرة 22</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Aqeedah/v0/Aqeedah22_Semester3.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>22</itunes:episode>
+    <itunes:season>3</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثالث - المحاضرة 23</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Aqeedah/v0/Aqeedah23_Semester3.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>23</itunes:episode>
+    <itunes:season>3</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الثالث - المحاضرة 24</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Aqeedah/v0/Aqeedah24_Semester3.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>24</itunes:episode>
+    <itunes:season>3</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الرابع - المحاضرة 1</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Aqeedah/v0/Aqeedah1_Semester4.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>1</itunes:episode>
+    <itunes:season>4</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الرابع - المحاضرة 2</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Aqeedah/v0/Aqeedah2_Semester4.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>2</itunes:episode>
+    <itunes:season>4</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الرابع - المحاضرة 3</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Aqeedah/v0/Aqeedah3_Semester4.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>3</itunes:episode>
+    <itunes:season>4</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الرابع - المحاضرة 4</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Aqeedah/v0/Aqeedah4_Semester4.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>4</itunes:episode>
+    <itunes:season>4</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الرابع - المحاضرة 5</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Aqeedah/v0/Aqeedah5_Semester4.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>5</itunes:episode>
+    <itunes:season>4</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الرابع - المحاضرة 6</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Aqeedah/v0/Aqeedah6_Semester4.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>6</itunes:episode>
+    <itunes:season>4</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الرابع - المحاضرة 7</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Aqeedah/v0/Aqeedah7_Semester4.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>7</itunes:episode>
+    <itunes:season>4</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الرابع - المحاضرة 8</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Aqeedah/v0/Aqeedah8_Semester4.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>8</itunes:episode>
+    <itunes:season>4</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الرابع - المحاضرة 9</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Aqeedah/v0/Aqeedah9_Semester4.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>9</itunes:episode>
+    <itunes:season>4</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الرابع - المحاضرة 10</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Aqeedah/v0/Aqeedah10_Semester4.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>10</itunes:episode>
+    <itunes:season>4</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الرابع - المحاضرة 11</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Aqeedah/v0/Aqeedah11_Semester4.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>11</itunes:episode>
+    <itunes:season>4</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الرابع - المحاضرة 12</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Aqeedah/v0/Aqeedah12_Semester4.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>12</itunes:episode>
+    <itunes:season>4</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الرابع - المحاضرة 13</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Aqeedah/v0/Aqeedah13_Semester4.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>13</itunes:episode>
+    <itunes:season>4</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الرابع - المحاضرة 14</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Aqeedah/v0/Aqeedah14_Semester4.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>14</itunes:episode>
+    <itunes:season>4</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الرابع - المحاضرة 15</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Aqeedah/v0/Aqeedah15_Semester4.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>15</itunes:episode>
+    <itunes:season>4</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الرابع - المحاضرة 16</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Aqeedah/v0/Aqeedah16_Semester4.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>16</itunes:episode>
+    <itunes:season>4</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الرابع - المحاضرة 17</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Aqeedah/v0/Aqeedah17_Semester4.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>17</itunes:episode>
+    <itunes:season>4</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الرابع - المحاضرة 18</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Aqeedah/v0/Aqeedah18_Semester4.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>18</itunes:episode>
+    <itunes:season>4</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الرابع - المحاضرة 19</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Aqeedah/v0/Aqeedah19_Semester4.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>19</itunes:episode>
+    <itunes:season>4</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الرابع - المحاضرة 20</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Aqeedah/v0/Aqeedah20_Semester4.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>20</itunes:episode>
+    <itunes:season>4</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الرابع - المحاضرة 21</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Aqeedah/v0/Aqeedah21_Semester4.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>21</itunes:episode>
+    <itunes:season>4</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الرابع - المحاضرة 22</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Aqeedah/v0/Aqeedah22_Semester4.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>22</itunes:episode>
+    <itunes:season>4</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الرابع - المحاضرة 23</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Aqeedah/v0/Aqeedah23_Semester4.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>23</itunes:episode>
+    <itunes:season>4</itunes:season>
+</item> 
+
+<item>
+    <title>Aqeedah - المستوى الرابع - المحاضرة 24</title>
+    <description></description>
+    <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Aqeedah/v0/Aqeedah24_Semester4.mp3" type="audio/mpeg"></enclosure>
+    <itunes:author>أبو زيدالقبي</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>24</itunes:episode>
+    <itunes:season>4</itunes:season>
+</item> 
+
+</channel>
+</rss>
