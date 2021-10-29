@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss
+	xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
+    
     <channel>
         <title>محاضرات اكاديمية زاد محاضرات العقيدة الدورة 1 </title>
         <link>https://archive.org/details/zad_lectures</link>
@@ -10,8 +15,12 @@
             <itunes:name>أكاديمية زاد</itunes:name>
         </itunes:owner>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/ZAD/ZAD_logo.jpg" />
-        <itunes:category text=Education/>
+       <itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
+		<image>
+			<url>https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png</url>
+			<title>اسماء الله الحسنى</title>
+			<link>https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png</link>
+		</image>
 
         <item>
             <title>Aqeedah - المستوى الأول - المحاضرة 1</title>
