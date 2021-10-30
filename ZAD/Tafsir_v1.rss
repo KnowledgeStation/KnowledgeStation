@@ -1,11 +1,12 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
     <channel>
         <title>محاضرات اكاديمية زاد محاضرات التفسير الدورة 2 </title>
         <link>https://archive.org/details/zad_lectures</link>
         <language>ar</language>
-        <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
-        <description>محاضرات برنامج أكاديمية زاد الدورة 2،  مادة التفسير للمستوى الاول، الثاني، الثالث و الرابع يقدمها د. محمد المنجد و سلطان العتيبي</description>
+        <itunes:author>قشمير القرني</itunes:author>
+        <description>محاضرات برنامج أكاديمية زاد الدورة 2،  مادة التفسير للمستوى الاول، الثاني، الثالث و الرابع يقدمها د. قشمير القرني</description>
         <itunes:owner>
             <itunes:name>أكاديمية زاد</itunes:name>
         </itunes:owner>
@@ -22,7 +23,7 @@
             <title>Tafsir - المستوى الأول - المحاضرة 1</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Tafsir/v1/Tafsir1_Semester1.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>1</itunes:episode>
             <itunes:season>1</itunes:season>
@@ -32,7 +33,7 @@
             <title>Tafsir - المستوى الأول - المحاضرة 2</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Tafsir/v1/Tafsir2_Semester1.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>2</itunes:episode>
             <itunes:season>1</itunes:season>
@@ -42,7 +43,7 @@
             <title>Tafsir - المستوى الأول - المحاضرة 3</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Tafsir/v1/Tafsir3_Semester1.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>3</itunes:episode>
             <itunes:season>1</itunes:season>
@@ -52,7 +53,7 @@
             <title>Tafsir - المستوى الأول - المحاضرة 4</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Tafsir/v1/Tafsir4_Semester1.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>4</itunes:episode>
             <itunes:season>1</itunes:season>
@@ -62,7 +63,7 @@
             <title>Tafsir - المستوى الأول - المحاضرة 5</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Tafsir/v1/Tafsir5_Semester1.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>5</itunes:episode>
             <itunes:season>1</itunes:season>
@@ -72,7 +73,7 @@
             <title>Tafsir - المستوى الأول - المحاضرة 6</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Tafsir/v1/Tafsir6_Semester1.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>6</itunes:episode>
             <itunes:season>1</itunes:season>
@@ -82,7 +83,7 @@
             <title>Tafsir - المستوى الأول - المحاضرة 7</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Tafsir/v1/Tafsir7_Semester1.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>7</itunes:episode>
             <itunes:season>1</itunes:season>
@@ -92,7 +93,7 @@
             <title>Tafsir - المستوى الأول - المحاضرة 8</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Tafsir/v1/Tafsir8_Semester1.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>8</itunes:episode>
             <itunes:season>1</itunes:season>
@@ -102,7 +103,7 @@
             <title>Tafsir - المستوى الأول - المحاضرة 9</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Tafsir/v1/Tafsir9_Semester1.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>9</itunes:episode>
             <itunes:season>1</itunes:season>
@@ -112,7 +113,7 @@
             <title>Tafsir - المستوى الأول - المحاضرة 10</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Tafsir/v1/Tafsir10_Semester1.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>10</itunes:episode>
             <itunes:season>1</itunes:season>
@@ -122,7 +123,7 @@
             <title>Tafsir - المستوى الأول - المحاضرة 11</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Tafsir/v1/Tafsir11_Semester1.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>11</itunes:episode>
             <itunes:season>1</itunes:season>
@@ -132,7 +133,7 @@
             <title>Tafsir - المستوى الأول - المحاضرة 12</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Tafsir/v1/Tafsir12_Semester1.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>12</itunes:episode>
             <itunes:season>1</itunes:season>
@@ -142,7 +143,7 @@
             <title>Tafsir - المستوى الأول - المحاضرة 13</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Tafsir/v1/Tafsir13_Semester1.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>13</itunes:episode>
             <itunes:season>1</itunes:season>
@@ -152,7 +153,7 @@
             <title>Tafsir - المستوى الأول - المحاضرة 14</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Tafsir/v1/Tafsir14_Semester1.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>14</itunes:episode>
             <itunes:season>1</itunes:season>
@@ -162,7 +163,7 @@
             <title>Tafsir - المستوى الأول - المحاضرة 15</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Tafsir/v1/Tafsir15_Semester1.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>15</itunes:episode>
             <itunes:season>1</itunes:season>
@@ -172,7 +173,7 @@
             <title>Tafsir - المستوى الأول - المحاضرة 16</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Tafsir/v1/Tafsir16_Semester1.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>16</itunes:episode>
             <itunes:season>1</itunes:season>
@@ -182,7 +183,7 @@
             <title>Tafsir - المستوى الأول - المحاضرة 17</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Tafsir/v1/Tafsir17_Semester1.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>17</itunes:episode>
             <itunes:season>1</itunes:season>
@@ -192,7 +193,7 @@
             <title>Tafsir - المستوى الأول - المحاضرة 18</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Tafsir/v1/Tafsir18_Semester1.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>18</itunes:episode>
             <itunes:season>1</itunes:season>
@@ -202,7 +203,7 @@
             <title>Tafsir - المستوى الأول - المحاضرة 19</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Tafsir/v1/Tafsir19_Semester1.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>19</itunes:episode>
             <itunes:season>1</itunes:season>
@@ -212,7 +213,7 @@
             <title>Tafsir - المستوى الأول - المحاضرة 20</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Tafsir/v1/Tafsir20_Semester1.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>20</itunes:episode>
             <itunes:season>1</itunes:season>
@@ -222,7 +223,7 @@
             <title>Tafsir - المستوى الأول - المحاضرة 21</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Tafsir/v1/Tafsir21_Semester1.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>21</itunes:episode>
             <itunes:season>1</itunes:season>
@@ -232,7 +233,7 @@
             <title>Tafsir - المستوى الأول - المحاضرة 22</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Tafsir/v1/Tafsir22_Semester1.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>22</itunes:episode>
             <itunes:season>1</itunes:season>
@@ -242,7 +243,7 @@
             <title>Tafsir - المستوى الأول - المحاضرة 23</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Tafsir/v1/Tafsir23_Semester1.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>23</itunes:episode>
             <itunes:season>1</itunes:season>
@@ -252,7 +253,7 @@
             <title>Tafsir - المستوى الأول - المحاضرة 24</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester1/Tafsir/v1/Tafsir24_Semester1.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>24</itunes:episode>
             <itunes:season>1</itunes:season>
@@ -262,7 +263,7 @@
             <title>Tafsir - المستوى الثاني - المحاضرة 1</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Tafsir/v1/Tafsir1_Semester2.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>1</itunes:episode>
             <itunes:season>2</itunes:season>
@@ -272,7 +273,7 @@
             <title>Tafsir - المستوى الثاني - المحاضرة 2</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Tafsir/v1/Tafsir2_Semester2.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>2</itunes:episode>
             <itunes:season>2</itunes:season>
@@ -282,7 +283,7 @@
             <title>Tafsir - المستوى الثاني - المحاضرة 3</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Tafsir/v1/Tafsir3_Semester2.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>3</itunes:episode>
             <itunes:season>2</itunes:season>
@@ -292,7 +293,7 @@
             <title>Tafsir - المستوى الثاني - المحاضرة 4</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Tafsir/v1/Tafsir4_Semester2.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>4</itunes:episode>
             <itunes:season>2</itunes:season>
@@ -302,7 +303,7 @@
             <title>Tafsir - المستوى الثاني - المحاضرة 5</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Tafsir/v1/Tafsir5_Semester2.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>5</itunes:episode>
             <itunes:season>2</itunes:season>
@@ -312,7 +313,7 @@
             <title>Tafsir - المستوى الثاني - المحاضرة 6</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Tafsir/v1/Tafsir6_Semester2.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>6</itunes:episode>
             <itunes:season>2</itunes:season>
@@ -322,7 +323,7 @@
             <title>Tafsir - المستوى الثاني - المحاضرة 7</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Tafsir/v1/Tafsir7_Semester2.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>7</itunes:episode>
             <itunes:season>2</itunes:season>
@@ -332,7 +333,7 @@
             <title>Tafsir - المستوى الثاني - المحاضرة 8</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Tafsir/v1/Tafsir8_Semester2.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>8</itunes:episode>
             <itunes:season>2</itunes:season>
@@ -342,7 +343,7 @@
             <title>Tafsir - المستوى الثاني - المحاضرة 9</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Tafsir/v1/Tafsir9_Semester2.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>9</itunes:episode>
             <itunes:season>2</itunes:season>
@@ -352,7 +353,7 @@
             <title>Tafsir - المستوى الثاني - المحاضرة 10</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Tafsir/v1/Tafsir10_Semester2.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>10</itunes:episode>
             <itunes:season>2</itunes:season>
@@ -362,7 +363,7 @@
             <title>Tafsir - المستوى الثاني - المحاضرة 11</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Tafsir/v1/Tafsir11_Semester2.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>11</itunes:episode>
             <itunes:season>2</itunes:season>
@@ -372,7 +373,7 @@
             <title>Tafsir - المستوى الثاني - المحاضرة 12</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Tafsir/v1/Tafsir12_Semester2.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>12</itunes:episode>
             <itunes:season>2</itunes:season>
@@ -382,7 +383,7 @@
             <title>Tafsir - المستوى الثاني - المحاضرة 13</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Tafsir/v1/Tafsir13_Semester2.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>13</itunes:episode>
             <itunes:season>2</itunes:season>
@@ -392,7 +393,7 @@
             <title>Tafsir - المستوى الثاني - المحاضرة 14</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Tafsir/v1/Tafsir14_Semester2.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>14</itunes:episode>
             <itunes:season>2</itunes:season>
@@ -402,7 +403,7 @@
             <title>Tafsir - المستوى الثاني - المحاضرة 15</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Tafsir/v1/Tafsir15_Semester2.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>15</itunes:episode>
             <itunes:season>2</itunes:season>
@@ -412,7 +413,7 @@
             <title>Tafsir - المستوى الثاني - المحاضرة 16</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Tafsir/v1/Tafsir16_Semester2.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>16</itunes:episode>
             <itunes:season>2</itunes:season>
@@ -422,7 +423,7 @@
             <title>Tafsir - المستوى الثاني - المحاضرة 17</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Tafsir/v1/Tafsir17_Semester2.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>17</itunes:episode>
             <itunes:season>2</itunes:season>
@@ -432,7 +433,7 @@
             <title>Tafsir - المستوى الثاني - المحاضرة 18</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Tafsir/v1/Tafsir18_Semester2.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>18</itunes:episode>
             <itunes:season>2</itunes:season>
@@ -442,7 +443,7 @@
             <title>Tafsir - المستوى الثاني - المحاضرة 19</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Tafsir/v1/Tafsir19_Semester2.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>19</itunes:episode>
             <itunes:season>2</itunes:season>
@@ -452,7 +453,7 @@
             <title>Tafsir - المستوى الثاني - المحاضرة 20</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Tafsir/v1/Tafsir20_Semester2.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>20</itunes:episode>
             <itunes:season>2</itunes:season>
@@ -462,7 +463,7 @@
             <title>Tafsir - المستوى الثاني - المحاضرة 21</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Tafsir/v1/Tafsir21_Semester2.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>21</itunes:episode>
             <itunes:season>2</itunes:season>
@@ -472,7 +473,7 @@
             <title>Tafsir - المستوى الثاني - المحاضرة 22</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Tafsir/v1/Tafsir22_Semester2.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>22</itunes:episode>
             <itunes:season>2</itunes:season>
@@ -482,7 +483,7 @@
             <title>Tafsir - المستوى الثاني - المحاضرة 23</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Tafsir/v1/Tafsir23_Semester2.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>23</itunes:episode>
             <itunes:season>2</itunes:season>
@@ -492,7 +493,7 @@
             <title>Tafsir - المستوى الثاني - المحاضرة 24</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester2/Tafsir/v1/Tafsir24_Semester2.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>24</itunes:episode>
             <itunes:season>2</itunes:season>
@@ -502,7 +503,7 @@
             <title>Tafsir - المستوى الثالث - المحاضرة 1</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Tafsir/v1/Tafsir1_Semester3.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>1</itunes:episode>
             <itunes:season>3</itunes:season>
@@ -512,7 +513,7 @@
             <title>Tafsir - المستوى الثالث - المحاضرة 2</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Tafsir/v1/Tafsir2_Semester3.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>2</itunes:episode>
             <itunes:season>3</itunes:season>
@@ -522,7 +523,7 @@
             <title>Tafsir - المستوى الثالث - المحاضرة 3</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Tafsir/v1/Tafsir3_Semester3.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>3</itunes:episode>
             <itunes:season>3</itunes:season>
@@ -532,7 +533,7 @@
             <title>Tafsir - المستوى الثالث - المحاضرة 4</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Tafsir/v1/Tafsir4_Semester3.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>4</itunes:episode>
             <itunes:season>3</itunes:season>
@@ -542,7 +543,7 @@
             <title>Tafsir - المستوى الثالث - المحاضرة 5</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Tafsir/v1/Tafsir5_Semester3.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>5</itunes:episode>
             <itunes:season>3</itunes:season>
@@ -552,7 +553,7 @@
             <title>Tafsir - المستوى الثالث - المحاضرة 6</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Tafsir/v1/Tafsir6_Semester3.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>6</itunes:episode>
             <itunes:season>3</itunes:season>
@@ -562,7 +563,7 @@
             <title>Tafsir - المستوى الثالث - المحاضرة 7</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Tafsir/v1/Tafsir7_Semester3.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>7</itunes:episode>
             <itunes:season>3</itunes:season>
@@ -572,7 +573,7 @@
             <title>Tafsir - المستوى الثالث - المحاضرة 8</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Tafsir/v1/Tafsir8_Semester3.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>8</itunes:episode>
             <itunes:season>3</itunes:season>
@@ -582,7 +583,7 @@
             <title>Tafsir - المستوى الثالث - المحاضرة 9</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Tafsir/v1/Tafsir9_Semester3.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>9</itunes:episode>
             <itunes:season>3</itunes:season>
@@ -592,7 +593,7 @@
             <title>Tafsir - المستوى الثالث - المحاضرة 10</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Tafsir/v1/Tafsir10_Semester3.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>10</itunes:episode>
             <itunes:season>3</itunes:season>
@@ -602,7 +603,7 @@
             <title>Tafsir - المستوى الثالث - المحاضرة 11</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Tafsir/v1/Tafsir11_Semester3.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>11</itunes:episode>
             <itunes:season>3</itunes:season>
@@ -612,7 +613,7 @@
             <title>Tafsir - المستوى الثالث - المحاضرة 12</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Tafsir/v1/Tafsir12_Semester3.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>12</itunes:episode>
             <itunes:season>3</itunes:season>
@@ -622,7 +623,7 @@
             <title>Tafsir - المستوى الثالث - المحاضرة 13</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Tafsir/v1/Tafsir13_Semester3.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>13</itunes:episode>
             <itunes:season>3</itunes:season>
@@ -632,7 +633,7 @@
             <title>Tafsir - المستوى الثالث - المحاضرة 14</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Tafsir/v1/Tafsir14_Semester3.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>14</itunes:episode>
             <itunes:season>3</itunes:season>
@@ -642,7 +643,7 @@
             <title>Tafsir - المستوى الثالث - المحاضرة 15</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Tafsir/v1/Tafsir15_Semester3.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>15</itunes:episode>
             <itunes:season>3</itunes:season>
@@ -652,7 +653,7 @@
             <title>Tafsir - المستوى الثالث - المحاضرة 16</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Tafsir/v1/Tafsir16_Semester3.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>16</itunes:episode>
             <itunes:season>3</itunes:season>
@@ -662,7 +663,7 @@
             <title>Tafsir - المستوى الثالث - المحاضرة 17</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Tafsir/v1/Tafsir17_Semester3.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>17</itunes:episode>
             <itunes:season>3</itunes:season>
@@ -672,7 +673,7 @@
             <title>Tafsir - المستوى الثالث - المحاضرة 18</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Tafsir/v1/Tafsir18_Semester3.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>18</itunes:episode>
             <itunes:season>3</itunes:season>
@@ -682,7 +683,7 @@
             <title>Tafsir - المستوى الثالث - المحاضرة 19</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Tafsir/v1/Tafsir19_Semester3.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>19</itunes:episode>
             <itunes:season>3</itunes:season>
@@ -692,7 +693,7 @@
             <title>Tafsir - المستوى الثالث - المحاضرة 20</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Tafsir/v1/Tafsir20_Semester3.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>20</itunes:episode>
             <itunes:season>3</itunes:season>
@@ -702,7 +703,7 @@
             <title>Tafsir - المستوى الثالث - المحاضرة 21</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Tafsir/v1/Tafsir21_Semester3.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>21</itunes:episode>
             <itunes:season>3</itunes:season>
@@ -712,7 +713,7 @@
             <title>Tafsir - المستوى الثالث - المحاضرة 22</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Tafsir/v1/Tafsir22_Semester3.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>22</itunes:episode>
             <itunes:season>3</itunes:season>
@@ -722,7 +723,7 @@
             <title>Tafsir - المستوى الثالث - المحاضرة 23</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Tafsir/v1/Tafsir23_Semester3.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>23</itunes:episode>
             <itunes:season>3</itunes:season>
@@ -732,7 +733,7 @@
             <title>Tafsir - المستوى الثالث - المحاضرة 24</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester3/Tafsir/v1/Tafsir24_Semester3.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>24</itunes:episode>
             <itunes:season>3</itunes:season>
@@ -742,7 +743,7 @@
             <title>Tafsir - المستوى الرابع - المحاضرة 1</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Tafsir/v1/Tafsir1_Semester4.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>1</itunes:episode>
             <itunes:season>4</itunes:season>
@@ -752,7 +753,7 @@
             <title>Tafsir - المستوى الرابع - المحاضرة 2</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Tafsir/v1/Tafsir2_Semester4.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>2</itunes:episode>
             <itunes:season>4</itunes:season>
@@ -762,7 +763,7 @@
             <title>Tafsir - المستوى الرابع - المحاضرة 3</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Tafsir/v1/Tafsir3_Semester4.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>3</itunes:episode>
             <itunes:season>4</itunes:season>
@@ -772,7 +773,7 @@
             <title>Tafsir - المستوى الرابع - المحاضرة 4</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Tafsir/v1/Tafsir4_Semester4.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>4</itunes:episode>
             <itunes:season>4</itunes:season>
@@ -782,7 +783,7 @@
             <title>Tafsir - المستوى الرابع - المحاضرة 5</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Tafsir/v1/Tafsir5_Semester4.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>5</itunes:episode>
             <itunes:season>4</itunes:season>
@@ -792,7 +793,7 @@
             <title>Tafsir - المستوى الرابع - المحاضرة 6</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Tafsir/v1/Tafsir6_Semester4.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>6</itunes:episode>
             <itunes:season>4</itunes:season>
@@ -802,7 +803,7 @@
             <title>Tafsir - المستوى الرابع - المحاضرة 7</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Tafsir/v1/Tafsir7_Semester4.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>7</itunes:episode>
             <itunes:season>4</itunes:season>
@@ -812,7 +813,7 @@
             <title>Tafsir - المستوى الرابع - المحاضرة 8</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Tafsir/v1/Tafsir8_Semester4.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>8</itunes:episode>
             <itunes:season>4</itunes:season>
@@ -822,7 +823,7 @@
             <title>Tafsir - المستوى الرابع - المحاضرة 9</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Tafsir/v1/Tafsir9_Semester4.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>9</itunes:episode>
             <itunes:season>4</itunes:season>
@@ -832,7 +833,7 @@
             <title>Tafsir - المستوى الرابع - المحاضرة 10</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Tafsir/v1/Tafsir10_Semester4.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>10</itunes:episode>
             <itunes:season>4</itunes:season>
@@ -842,7 +843,7 @@
             <title>Tafsir - المستوى الرابع - المحاضرة 11</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Tafsir/v1/Tafsir11_Semester4.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>11</itunes:episode>
             <itunes:season>4</itunes:season>
@@ -852,7 +853,7 @@
             <title>Tafsir - المستوى الرابع - المحاضرة 12</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Tafsir/v1/Tafsir12_Semester4.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>12</itunes:episode>
             <itunes:season>4</itunes:season>
@@ -862,7 +863,7 @@
             <title>Tafsir - المستوى الرابع - المحاضرة 13</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Tafsir/v1/Tafsir13_Semester4.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>13</itunes:episode>
             <itunes:season>4</itunes:season>
@@ -872,7 +873,7 @@
             <title>Tafsir - المستوى الرابع - المحاضرة 14</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Tafsir/v1/Tafsir14_Semester4.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>14</itunes:episode>
             <itunes:season>4</itunes:season>
@@ -882,7 +883,7 @@
             <title>Tafsir - المستوى الرابع - المحاضرة 15</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Tafsir/v1/Tafsir15_Semester4.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>15</itunes:episode>
             <itunes:season>4</itunes:season>
@@ -892,7 +893,7 @@
             <title>Tafsir - المستوى الرابع - المحاضرة 16</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Tafsir/v1/Tafsir16_Semester4.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>16</itunes:episode>
             <itunes:season>4</itunes:season>
@@ -902,7 +903,7 @@
             <title>Tafsir - المستوى الرابع - المحاضرة 17</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Tafsir/v1/Tafsir17_Semester4.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>17</itunes:episode>
             <itunes:season>4</itunes:season>
@@ -912,7 +913,7 @@
             <title>Tafsir - المستوى الرابع - المحاضرة 18</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Tafsir/v1/Tafsir18_Semester4.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>18</itunes:episode>
             <itunes:season>4</itunes:season>
@@ -922,7 +923,7 @@
             <title>Tafsir - المستوى الرابع - المحاضرة 19</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Tafsir/v1/Tafsir19_Semester4.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>19</itunes:episode>
             <itunes:season>4</itunes:season>
@@ -932,7 +933,7 @@
             <title>Tafsir - المستوى الرابع - المحاضرة 20</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Tafsir/v1/Tafsir20_Semester4.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>20</itunes:episode>
             <itunes:season>4</itunes:season>
@@ -942,7 +943,7 @@
             <title>Tafsir - المستوى الرابع - المحاضرة 21</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Tafsir/v1/Tafsir21_Semester4.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>21</itunes:episode>
             <itunes:season>4</itunes:season>
@@ -952,7 +953,7 @@
             <title>Tafsir - المستوى الرابع - المحاضرة 22</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Tafsir/v1/Tafsir22_Semester4.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>22</itunes:episode>
             <itunes:season>4</itunes:season>
@@ -962,7 +963,7 @@
             <title>Tafsir - المستوى الرابع - المحاضرة 23</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Tafsir/v1/Tafsir23_Semester4.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>23</itunes:episode>
             <itunes:season>4</itunes:season>
@@ -972,7 +973,7 @@
             <title>Tafsir - المستوى الرابع - المحاضرة 24</title>
             <description></description>
             <enclosure url="https://ia801407.us.archive.org/1/items/zad_lectures/zad_lectures/Semester4/Tafsir/v1/Tafsir24_Semester4.mp3" type="audio/mpeg"></enclosure>
-            <itunes:author>محمد المنجد و سلطان العتيبي</itunes:author>
+            <itunes:author>قشمير القرني</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>24</itunes:episode>
             <itunes:season>4</itunes:season>
