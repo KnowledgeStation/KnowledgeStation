@@ -1,1671 +1,693 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss
-	xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md"
-	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 	<channel>
-		<title>
-			<![CDATA[أسماء الله الحسنى]]>
-		</title>
+		<title> أسماء الله الحسنى</title>
 		<link>https://archive.org/details/Al-Asmaa_Al-Husnaa</link>
-		<atom:link href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/feed.xml" rel="self" type="application/rss+xml"/>
 		<description>
-			<![CDATA[اذا كان الإنسان مطالباً بأن يسعى إلى تحصيل العلوم النافعة، وأن يسأل ربه -تبارك وتعالى- أن يوفقه .لذلك، وأن يدله عليه، فلا شك أن العلم المتعلق بالمعبود أشرف العلوم، وأنفع العلوم
-إن أصل العلم هو العلم بالله الذي يوجب لنا الخشية، والخوف الذي يبعث في نفوسنا الشوق إلى لقاء الله. ففي هذه المجالس يشرح الشيخ خالد السبت اسماء الله ويبين معانيها و دلالاتها.]]>
+			اذا كان الإنسان مطالباً بأن يسعى إلى تحصيل العلوم النافعة، وأن يسأل ربه -تبارك وتعالى- أن يوفقه .لذلك، وأن يدله عليه، فلا شك أن العلم المتعلق بالمعبود أشرف العلوم، وأنفع العلوم
+إن أصل العلم هو العلم بالله الذي يوجب لنا الخشية، والخوف الذي يبعث في نفوسنا الشوق إلى لقاء الله. ففي هذه المجالس يشرح الشيخ خالد السبت اسماء الله ويبين معانيها و دلالاتها. 
 		</description>
-		<generator>RSS.com v1.0.17</generator>
-		<lastBuildDate>Tue, 18 May 2021 20:24:35 GMT</lastBuildDate>
 		<language>ar</language>
-		<copyright>
-			<![CDATA[none]]>
-		</copyright>
 		<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
 		<image>
 			<url>https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png</url>
 			<title>اسماء الله الحسنى</title>
 			<link>https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png</link>
 		</image>
-		<itunes:summary>
-			<![CDATA[اذا كان الإنسان مطالباً بأن يسعى إلى تحصيل العلوم النافعة، وأن يسأل ربه -تبارك وتعالى- أن يوفقه .لذلك، وأن يدله عليه، فلا شك أن العلم المتعلق بالمعبود أشرف العلوم، وأنفع العلوم
-إن أصل العلم هو العلم بالله الذي يوجب لنا الخشية، والخوف الذي يبعث في نفوسنا الشوق إلى لقاء الله. ففي هذه المجالس يشرح الشيخ خالد السبت اسماء الله ويبين معانيها و دلالاتها.]]>
-		</itunes:summary>
-		<podcast:locked owner="knowledge_station@protonmail.com">Yes</podcast:locked>
 		<itunes:author>خالد السبت</itunes:author>
 		<itunes:owner>
-			<itunes:name>خالد السبت</itunes:name>
-			<itunes:email>knowledge_station@protonmail.com</itunes:email>
-		</itunes:owner>
+            		<itunes:name>خالد السبت</itunes:name>
+        	</itunes:owner>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:type>episodic</itunes:type>
 		<itunes:category text="Education"/>
+
 		<item>
-			<title>
-				<![CDATA[ المقدمات في الأسماء الحسنى (1و2) ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ المقدمات في الأسماء الحسنى (1و2) ]]>
-			</itunes:title>
-			<itunes:summary> المقدمات في الأسماء الحسنى (1و2)   </itunes:summary>
-			<description>
-				<![CDATA[<p> المقدمات في الأسماء الحسنى (1و2) </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/01.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/01.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
+			<title>المقدمات في الأسماء الحسنى (1و2)</title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/01.mp3" type="audio/mpeg"></enclosure>
 			<itunes:duration>5076</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>1</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
 		</item>
 		<item>
-			<title>
-				<![CDATA[ (3) المقدمات في الأسماء الحسنى ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ (3) المقدمات في الأسماء الحسنى ]]>
-			</itunes:title>
-			<itunes:summary> (3) المقدمات في الأسماء الحسنى   </itunes:summary>
-			<description>
-				<![CDATA[<p> (3) المقدمات في الأسماء الحسنى </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/02.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/02.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
+			<title> (3) المقدمات في الأسماء الحسنى </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/02.mp3" type="audio/mpeg"></enclosure>
 			<itunes:duration>3022</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>2</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
 		</item>
 		<item>
-			<title>
-				<![CDATA[ (4) المقدمات في الأسماء الحسنى ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ (4) المقدمات في الأسماء الحسنى ]]>
-			</itunes:title>
-			<itunes:summary> (4) المقدمات في الأسماء الحسنى   </itunes:summary>
-			<description>
-				<![CDATA[<p> (4) المقدمات في الأسماء الحسنى </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/03.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/03.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
+			<title> (4) المقدمات في الأسماء الحسنى  </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/03.mp3" type="audio/mpeg"></enclosure>
 			<itunes:duration>3126</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>3</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
 		</item>
 		<item>
-			<title>
-				<![CDATA[ (5) المقدمات في الأسماء الحسنى ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ (5) المقدمات في الأسماء الحسنى ]]>
-			</itunes:title>
-			<itunes:summary> (5) المقدمات في الأسماء الحسنى   </itunes:summary>
-			<description>
-				<![CDATA[<p> (5) المقدمات في الأسماء الحسنى </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/04.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/04.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
+			<title> (5) المقدمات في الأسماء الحسنى </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/04.mp3" type="audio/mpeg"></enclosure>
 			<itunes:duration>2971</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>4</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
 		</item>
 		<item>
-			<title>
-				<![CDATA[ (6) المقدمات في الأسماء الحسنى ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ (6) المقدمات في الأسماء الحسنى ]]>
-			</itunes:title>
-			<itunes:summary> (6) المقدمات في الأسماء الحسنى   </itunes:summary>
-			<description>
-				<![CDATA[<p> (6) المقدمات في الأسماء الحسنى </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/05.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/05.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
+			<title> (6) المقدمات في الأسماء الحسنى </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/05.mp3" type="audio/mpeg"></enclosure>
 			<itunes:duration>3393</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>5</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
 		</item>
 		<item>
-			<title>
-				<![CDATA[ (7) المقدمات في الأسماء الحسنى ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ (7) المقدمات في الأسماء الحسنى ]]>
-			</itunes:title>
-			<itunes:summary> (7) المقدمات في الأسماء الحسنى   </itunes:summary>
-			<description>
-				<![CDATA[<p> (7) المقدمات في الأسماء الحسنى </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/06.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/06.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
+			<title>	(7) المقدمات في الأسماء الحسنى </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/06.mp3" type="audio/mpeg"></enclosure>
 			<itunes:duration>3320</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>6</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
 		</item>
 		<item>
-			<title>
-				<![CDATA[ (8) المقدمات في الأسماء الحسنى ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ (8) المقدمات في الأسماء الحسنى ]]>
-			</itunes:title>
-			<itunes:summary> (8) المقدمات في الأسماء الحسنى   </itunes:summary>
-			<description>
-				<![CDATA[<p> (8) المقدمات في الأسماء الحسنى </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/07.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/07.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
+			<title> (8) المقدمات في الأسماء الحسنى </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/07.mp3" type="audio/mpeg"></enclosure>
 			<itunes:duration>4299</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>7</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
 		</item>
 		<item>
-			<title>
-				<![CDATA[ الله ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ الله ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم الله   </itunes:summary>
-			<description>
-				<![CDATA[<p> الله </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/08.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/08.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
+			<title>	الله  </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/08.mp3" type="audio/mpeg"></enclosure>
 			<itunes:duration>4288</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>8</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
 		</item>
 		<item>
-			<title>
-				<![CDATA[ الرب ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ الرب ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم الرب   </itunes:summary>
-			<description>
-				<![CDATA[<p> الرب </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/09.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/09.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
+			<title>	الرب  </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/09.mp3" type="audio/mpeg"></enclosure>
 			<itunes:duration>4354</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>9</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
 		</item>
 		<item>
-			<title>
-				<![CDATA[ السيد الصمد ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ السيد الصمد ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم السيد الصمد   </itunes:summary>
-			<description>
-				<![CDATA[<p> السيد الصمد </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/10.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/10.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
+			<title>	السيد الصمد</title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/10.mp3" type="audio/mpeg"></enclosure>
 			<itunes:duration>4484</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>10</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
 		</item>
 		<item>
-			<title>
-				<![CDATA[ (1) الملك المالك المليك ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ (1) الملك المالك المليك ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم (1) الملك المالك المليك   </itunes:summary>
-			<description>
-				<![CDATA[<p> (1) الملك المالك المليك </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/11.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/11.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
+			<title>	(1) الملك المالك المليك </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/11.mp3" type="audio/mpeg"></enclosure>
 			<itunes:duration>3632</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>11</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
 		</item>
 		<item>
-			<title>
-				<![CDATA[ (2) الملك المالك المليك ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ (2) الملك المالك المليك ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم (2) الملك المالك المليك   </itunes:summary>
-			<description>
-				<![CDATA[<p> (2) الملك المالك المليك </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/12.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/12.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
+			<title>(2) الملك المالك المليك </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/12.mp3" type="audio/mpeg"></enclosure>
 			<itunes:duration>3388</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>12</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
 		</item>
 		<item>
-			<title>
-				<![CDATA[ الخالق ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ الخالق ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم الخالق   </itunes:summary>
-			<description>
-				<![CDATA[<p> الخالق </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/13.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/13.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
+			<title>	الخالق </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/13.mp3" type="audio/mpeg"></enclosure>
 			<itunes:duration>4267</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>13</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
 		</item>
 		<item>
-			<title>
-				<![CDATA[ البارئ ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ البارئ ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم البارئ   </itunes:summary>
-			<description>
-				<![CDATA[<p> البارئ </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/14.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/14.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
+			<title> البارئ  </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/14.mp3" type="audio/mpeg"></enclosure>
 			<itunes:duration>3955</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>14</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
 		</item>
 		<item>
-			<title>
-				<![CDATA[ المصور ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ المصور ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم المصور   </itunes:summary>
-			<description>
-				<![CDATA[<p> المصور </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/15.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/15.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
+			<title> المصور  </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/15.mp3" type="audio/mpeg"></enclosure>
 			<itunes:duration>4514</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>15</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
 		</item>
 		<item>
-			<title>
-				<![CDATA[ الرحمن الرحيم ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ الرحمن الرحيم ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم الرحمن الرحيم   </itunes:summary>
-			<description>
-				<![CDATA[<p> الرحمن الرحيم </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/16.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/16.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
+			<title> الرحمن الرحيم </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/16.mp3" type="audio/mpeg"></enclosure>
 			<itunes:duration>3940</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>16</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
 		</item>
 		<item>
-			<title>
-				<![CDATA[ الرؤوف الحنان ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ الرؤوف الحنان ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم الرؤوف الحنان   </itunes:summary>
-			<description>
-				<![CDATA[<p> الرؤوف الحنان </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/17.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/17.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
+			<title>الرؤوف الحنان  </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/17.mp3" type="audio/mpeg"></enclosure>
 			<itunes:duration>4062</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>17</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
 		</item>
 		<item>
-			<title>
-				<![CDATA[ الواحد الأحد الوتر ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ الواحد الأحد الوتر ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم الواحد الأحد الوتر   </itunes:summary>
-			<description>
-				<![CDATA[<p> الواحد الأحد الوتر </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/18.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/18.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
+			<title> الواحد الأحد الوتر </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/18.mp3" type="audio/mpeg"></enclosure>
 			<itunes:duration>5060</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>18</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
 		</item>
 		<item>
-			<title>
-				<![CDATA[ الحي ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ الحي ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم الحي   </itunes:summary>
-			<description>
-				<![CDATA[<p> الحي </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/19.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/19.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
+			<title>	الحي  </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/19.mp3" type="audio/mpeg"></enclosure>
 			<itunes:duration>4557</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>19</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
 		</item>
 		<item>
-			<title>
-				<![CDATA[ القيوم ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ القيوم ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم القيوم   </itunes:summary>
-			<description>
-				<![CDATA[<p> القيوم </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/20.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/20.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
+			<title> القيوم  </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/20.mp3" type="audio/mpeg"></enclosure>
 			<itunes:duration>3078</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>20</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
 		</item>
 		<item>
-			<title>
-				<![CDATA[ النصير ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ النصير ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم النصير   </itunes:summary>
-			<description>
-				<![CDATA[<p> النصير </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/21.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/21.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
+			<title>	 النصير </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/21.mp3" type="audio/mpeg"></enclosure>
 			<itunes:duration>3389</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>21</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
 		</item>
 		<item>
-			<title>
-				<![CDATA[ الشافي ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ الشافي ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم الشافي   </itunes:summary>
-			<description>
-				<![CDATA[<p> الشافي </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/22.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/22.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
+			<title>	الشافي  </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/22.mp3" type="audio/mpeg"></enclosure>
 			<itunes:duration>4268</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>22</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
 		</item>
 		<item>
-			<title>
-				<![CDATA[ (1) الحكيم ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ (1) الحكيم ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم (1) الحكيم   </itunes:summary>
-			<description>
-				<![CDATA[<p> (1) الحكيم </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/23.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/23.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
+			<title>	 (1) الحكيم </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/23.mp3" type="audio/mpeg"></enclosure>
 			<itunes:duration>2526</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>23</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
 		</item>
 		<item>
-			<title>
-				<![CDATA[ (2) الحكيم ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ (2) الحكيم ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم (2) الحكيم   </itunes:summary>
-			<description>
-				<![CDATA[<p> (2) الحكيم </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/24.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/24.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
+			<title>	(2) الحكيم </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/24.mp3" type="audio/mpeg"></enclosure>
 			<itunes:duration>2953</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>24</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
 		</item>
 		<item>
-			<title>
-				<![CDATA[ (3) الحكيم ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ (3) الحكيم ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم (3) الحكيم   </itunes:summary>
-			<description>
-				<![CDATA[<p> (3) الحكيم </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/25.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/25.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
+			<title> (3) الحكيم </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/25.mp3" type="audio/mpeg"></enclosure>
 			<itunes:duration>3057</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>25</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
 		</item>
 		<item>
-			<title>
-				<![CDATA[ (4) الحكيم ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ (4) الحكيم ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم (4) الحكيم   </itunes:summary>
-			<description>
-				<![CDATA[<p> (4) الحكيم </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/26.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/26.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>2965</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title>(4) الحكيم  </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/26.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>2965</itunes:duration>
 			<itunes:episode>26</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ نظرات في كتب الأسماء الحسنى ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ نظرات في كتب الأسماء الحسنى ]]>
-			</itunes:title>
-			<itunes:summary> نظرات في كتب الأسماء الحسنى   </itunes:summary>
-			<description>
-				<![CDATA[<p> نظرات في كتب الأسماء الحسنى </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/27.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/27.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>3286</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title> نظرات في كتب الأسماء الحسنى  </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/27.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>3286</itunes:duration>
 			<itunes:episode>27</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ الحكم ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ الحكم ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم الحكم   </itunes:summary>
-			<description>
-				<![CDATA[<p> الحكم </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/28.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/28.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>4548</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title> الحكم </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/28.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>4548</itunes:duration>
 			<itunes:episode>28</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ الفتاح ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ الفتاح ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم الفتاح   </itunes:summary>
-			<description>
-				<![CDATA[<p> الفتاح </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/29.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/29.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>2816</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title>الفتاح  </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/29.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>2816</itunes:duration>
 			<itunes:episode>29</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ الديان ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ الديان ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم الديان   </itunes:summary>
-			<description>
-				<![CDATA[<p> الديان </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/30.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/30.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>3323</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title>الديان  </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/30.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>3323</itunes:duration>
 			<itunes:episode>30</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ الحسيب ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ الحسيب ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم الحسيب   </itunes:summary>
-			<description>
-				<![CDATA[<p> الحسيب </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/31.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/31.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>4511</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title>	الحسيب </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/31.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>4511</itunes:duration>
 			<itunes:episode>31</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ الوكيل  الكفيل  الكافي ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ الوكيل  الكفيل  الكافي ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم الوكيل  الكفيل  الكافي   </itunes:summary>
-			<description>
-				<![CDATA[<p> الوكيل  الكفيل  الكافي </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/32.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/32.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>4610</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title>الوكيل  الكفيل  الكافي  </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/32.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>4610</itunes:duration>
 			<itunes:episode>32</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ المولى  الولي ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ المولى  الولي ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم المولى  الولي   </itunes:summary>
-			<description>
-				<![CDATA[<p> المولى  الولي </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/33.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/33.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>4656</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title>المولى  الولي </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/33.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>4656</itunes:duration>
 			<itunes:episode>33</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ العليم ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ العليم ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم العليم   </itunes:summary>
-			<description>
-				<![CDATA[<p> العليم </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/34.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/34.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>3698</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title>العليم </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/34.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>3698</itunes:duration>
 			<itunes:episode>34</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ الخبير ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ الخبير ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم الخبير   </itunes:summary>
-			<description>
-				<![CDATA[<p> الخبير </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/35.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/35.mp3" length="31077966" type="audio/mpeg"/>
+			<title>الخبير</title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/35.mp3" type="audio/mpeg"></enclosure>
 			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>3692</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+  			<itunes:duration>3692</itunes:duration>
+			  
 			<itunes:episode>35</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ اللطيف ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ اللطيف ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم اللطيف   </itunes:summary>
-			<description>
-				<![CDATA[<p> اللطيف </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/36.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/36.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>4068</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title>اللطيف</title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/36.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>4068</itunes:duration>
 			<itunes:episode>36</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ الرقيب ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ الرقيب ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم الرقيب   </itunes:summary>
-			<description>
-				<![CDATA[<p> الرقيب </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/37.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/37.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>4227</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title>الرقيب</title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/37.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>4227</itunes:duration>
 			<itunes:episode>37</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ الشهيد ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ الشهيد ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم الشهيد   </itunes:summary>
-			<description>
-				<![CDATA[<p> الشهيد </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/39.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/39.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>3804</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title> الشهيد  </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/39.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>3804</itunes:duration>
 			<itunes:episode>38</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ الحفيظ ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ الحفيظ ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم الحفيظ   </itunes:summary>
-			<description>
-				<![CDATA[<p> الحفيظ </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/40.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/40.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>3863</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title>الحفيظ </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/40.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>3863</itunes:duration>
 			<itunes:episode>39</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ السميع  البصير ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ السميع  البصير ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم السميع  البصير   </itunes:summary>
-			<description>
-				<![CDATA[<p> السميع  البصير </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/41.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/41.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>3971</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title>السميع  البصير </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/41.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>3971</itunes:duration>
 			<itunes:episode>40</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ الرفيق ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ الرفيق ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم الرفيق   </itunes:summary>
-			<description>
-				<![CDATA[<p> الرفيق </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/42.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/42.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>4395</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title>الرفيق </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/42.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>4395</itunes:duration>
 			<itunes:episode>41</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ الجبار ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ الجبار ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم الجبار   </itunes:summary>
-			<description>
-				<![CDATA[<p> الجبار </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/43.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/43.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>3934</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title>الجبار </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/43.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>3934</itunes:duration>  
 			<itunes:episode>42</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ العزيز ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ العزيز ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم العزيز   </itunes:summary>
-			<description>
-				<![CDATA[<p> العزيز </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/44.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/44.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>4156</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title>العزيز</title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/44.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>4156</itunes:duration>
 			<itunes:episode>43</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ المتكبر الكبير ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ المتكبر الكبير ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم المتكبر الكبير   </itunes:summary>
-			<description>
-				<![CDATA[<p> المتكبر الكبير </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/45.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/45.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>3992</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title> المتكبر الكبير </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/45.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>3992</itunes:duration>
 			<itunes:episode>44</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ المتعالي ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ المتعالي ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم المتعالي   </itunes:summary>
-			<description>
-				<![CDATA[<p> المتعالي </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/46.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/46.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>4512</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title>المتعالي </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/46.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>4512</itunes:duration>
 			<itunes:episode>45</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ العظيم ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ العظيم ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم العظيم   </itunes:summary>
-			<description>
-				<![CDATA[<p> العظيم </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/47.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/47.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>3669</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title>العظيم </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/47.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>3669</itunes:duration>
 			<itunes:episode>46</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ المجيد ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ المجيد ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم المجيد   </itunes:summary>
-			<description>
-				<![CDATA[<p> المجيد </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/48.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/48.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>3668</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title>  المجيد </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/48.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>3668</itunes:duration>
 			<itunes:episode>47</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ الكريم الأكرم ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ الكريم الأكرم ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم الكريم الأكرم   </itunes:summary>
-			<description>
-				<![CDATA[<p> الكريم الأكرم </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/49.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/49.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>3525</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title> الكريم الأكرم</title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/49.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>3525</itunes:duration>
 			<itunes:episode>48</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ الرزاق الرازق ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ الرزاق الرازق ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم الرزاق الرازق   </itunes:summary>
-			<description>
-				<![CDATA[<p> الرزاق الرازق </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/50.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/50.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>4854</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title> الرزاق الرازق</title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/50.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>4854</itunes:duration>
 			<itunes:episode>49</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ الجواد المحسن ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ الجواد المحسن ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم الجواد المحسن   </itunes:summary>
-			<description>
-				<![CDATA[<p> الجواد المحسن </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/51.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/51.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>3366</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title>الجواد المحسن</title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/51.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>3366</itunes:duration>
 			<itunes:episode>50</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ الوهاب المعطي ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ الوهاب المعطي ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم الوهاب المعطي   </itunes:summary>
-			<description>
-				<![CDATA[<p> الوهاب المعطي </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/52.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/52.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>4785</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title>الوهاب المعطي</title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/52.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>4785</itunes:duration> 
 			<itunes:episode>51</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ البر ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ البر ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم البر   </itunes:summary>
-			<description>
-				<![CDATA[<p> البر </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/53.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/53.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>3721</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title>البر</title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/53.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>3721</itunes:duration>
 			<itunes:episode>52</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ الغني ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ الغني ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم الغني   </itunes:summary>
-			<description>
-				<![CDATA[<p> الغني </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/54.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/54.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>3155</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title>الغني</title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/54.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>3155</itunes:duration> 
 			<itunes:episode>53</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ الواسع ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ الواسع ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم الواسع   </itunes:summary>
-			<description>
-				<![CDATA[<p> الواسع </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/55.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/55.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>3759</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title> الواسع </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/55.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>3759</itunes:duration>
 			<itunes:episode>54</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ الشاكر الشكور ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ الشاكر الشكور ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم الشاكر الشكور   </itunes:summary>
-			<description>
-				<![CDATA[<p> الشاكر الشكور </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/56.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/56.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>4255</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title> الشاكر الشكور</title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/56.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>4255</itunes:duration>
 			<itunes:episode>55</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ الحميد ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ الحميد ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم الحميد   </itunes:summary>
-			<description>
-				<![CDATA[<p> الحميد </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/57.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/57.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>3046</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title>الحميد </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/57.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>3046</itunes:duration>
 			<itunes:episode>56</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ القابض الباسط ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ القابض الباسط ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم القابض الباسط   </itunes:summary>
-			<description>
-				<![CDATA[<p> القابض الباسط </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/58.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/58.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>3624</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title>القابض الباسط </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/58.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>3624</itunes:duration>
 			<itunes:episode>57</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ المنان ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ المنان ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم المنان   </itunes:summary>
-			<description>
-				<![CDATA[<p> المنان </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/59.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/59.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>3461</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title> المنان</title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/59.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>3461</itunes:duration>
 			<itunes:episode>58</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ الحق ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ الحق ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم الحق   </itunes:summary>
-			<description>
-				<![CDATA[<p> الحق </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/60.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/60.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>3966</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title> الحق </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/60.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>3966</itunes:duration>
 			<itunes:episode>59</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ المبين ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ المبين ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم المبين   </itunes:summary>
-			<description>
-				<![CDATA[<p> المبين </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/61.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/61.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>2431</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title>  المبين</title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/61.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>2431</itunes:duration> 
 			<itunes:episode>60</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ الأول الآخر ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ الأول الآخر ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم الأول الآخر   </itunes:summary>
-			<description>
-				<![CDATA[<p> الأول الآخر </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/62.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/62.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>2813</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title> الأول الآخر</title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/62.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>2813</itunes:duration>
 			<itunes:episode>61</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ الظاهر والباطن ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ الظاهر والباطن ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم الظاهر والباطن   </itunes:summary>
-			<description>
-				<![CDATA[<p> الظاهر والباطن </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/63.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/63.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>2867</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title>  الظاهر والباطن</title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/63.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>2867</itunes:duration>
 			<itunes:episode>62</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ المقدم المؤخر ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ المقدم المؤخر ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم المقدم المؤخر   </itunes:summary>
-			<description>
-				<![CDATA[<p> المقدم المؤخر </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/64.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/64.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>2366</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title> المقدم المؤخر</title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/64.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>2366</itunes:duration>  
 			<itunes:episode>63</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ الوارث ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ الوارث ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم الوارث   </itunes:summary>
-			<description>
-				<![CDATA[<p> الوارث </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/65.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/65.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>1891</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title> الوارث</title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/65.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>1891</itunes:duration> 
 			<itunes:episode>64</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ القدوس والسلام ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ القدوس والسلام ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم القدوس والسلام   </itunes:summary>
-			<description>
-				<![CDATA[<p> القدوس والسلام </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/66.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/66.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>2173</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title> القدوس والسلام</title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/66.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>2173</itunes:duration>
 			<itunes:episode>65</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ القوي والمتين ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ القوي والمتين ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم القوي والمتين   </itunes:summary>
-			<description>
-				<![CDATA[<p> القوي والمتين </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/67.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/67.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>2819</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title>	القوي والمتين</title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/67.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>2819</itunes:duration>
 			<itunes:episode>66</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ القهار القاهر ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ القهار القاهر ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم القهار القاهر   </itunes:summary>
-			<description>
-				<![CDATA[<p> القهار القاهر </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/68.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/68.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>2177</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title>  القهار القاهر </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/68.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>2177</itunes:duration>
 			<itunes:episode>67</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ القادر والقدير والمقتدر ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ القادر والقدير والمقتدر ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم القادر والقدير والمقتدر   </itunes:summary>
-			<description>
-				<![CDATA[<p> القادر والقدير والمقتدر </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/69.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/69.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>2258</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title>القادر والقدير والمقتدر</title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/69.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>2258</itunes:duration>
 			<itunes:episode>68</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ المهيمن ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ المهيمن ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم المهيمن   </itunes:summary>
-			<description>
-				<![CDATA[<p> المهيمن </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/70.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/70.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>1393</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title> المهيمن </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/70.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>1393</itunes:duration>
 			<itunes:episode>69</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ المؤمن ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ المؤمن ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم المؤمن   </itunes:summary>
-			<description>
-				<![CDATA[<p> المؤمن </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/71.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/71.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>3020</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title>المؤمن</title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/71.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>3020</itunes:duration>
 			<itunes:episode>70</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ الودود ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ الودود ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم الودود   </itunes:summary>
-			<description>
-				<![CDATA[<p> الودود </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/72.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/72.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>3048</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title>الودود </title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/72.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>3048</itunes:duration>
 			<itunes:episode>71</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ الغفار  الغفور ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ الغفار  الغفور ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم الغفار  الغفور   </itunes:summary>
-			<description>
-				<![CDATA[<p> الغفار  الغفور </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/73.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/73.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>3389</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title> الغفار  الغفور</title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/73.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>3389</itunes:duration>
 			<itunes:episode>72</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ الحليم ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ الحليم ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم الحليم   </itunes:summary>
-			<description>
-				<![CDATA[<p> الحليم </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/74.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/74.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>3331</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title> الحليم</title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/74.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>3331</itunes:duration>
 			<itunes:episode>73</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 		<item>
-			<title>
-				<![CDATA[ التواب ]]>
-			</title>
-			<itunes:title>
-				<![CDATA[ التواب ]]>
-			</itunes:title>
-			<itunes:summary> شرح اسم التواب   </itunes:summary>
-			<description>
-				<![CDATA[<p> التواب </p>]]>
-			</description>
-			<link>https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/75.mp3</link>
-			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/75.mp3" length="31077966" type="audio/mpeg"/>
-			
-			<itunes:image href="https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/IMG_5613.png"/>
-			<itunes:duration>2433</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
+			<title>  التواب</title>
+			<description></description>
+			<enclosure url="https://ia802804.us.archive.org/28/items/Al-Asmaa_Al-Husnaa/75.mp3" type="audio/mpeg"></enclosure>
+  			<itunes:duration>2433</itunes:duration>
 			<itunes:episode>74</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>no</itunes:explicit>
-			<pubDate>Tue, 18 May 2021 20:24:35 GMT</pubDate>
-		</item>
+  		</item>
 	</channel>
 </rss>
