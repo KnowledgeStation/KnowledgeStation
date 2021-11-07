@@ -20,6 +20,7 @@
         	</itunes:owner>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:category text="Education"/>
+		<itunes:type>serial</itunes:type>
 
 		<item>
 			<title>المقدمات في الأسماء الحسنى (1و2)</title>
