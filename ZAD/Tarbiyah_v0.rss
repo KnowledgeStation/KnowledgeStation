@@ -17,6 +17,7 @@
             <link>https://raw.githubusercontent.com/KnowledgeStation/KnowledgeStation/main/ZAD/ZAD_logo</link>
         </image>
         <itunes:category text="Education" />
+        <itunes:type>serial</itunes:type>
 
         <item>
             <title>Tarbiyah - المستوى الأول - المحاضرة 1</title>
